@@ -35,4 +35,5 @@ Press `Alt+S` while the Sudoku web page is fully visible. If an OpenCV GUI windo
 - https://sudoku.com/
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
